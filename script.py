@@ -59,7 +59,7 @@ def main():
     elif action == "4":
         exit()
     else:
-        print("Chodde an appropriate option")
+        print("Choose an appropriate option")
 
 login = input("Username: ")
 
